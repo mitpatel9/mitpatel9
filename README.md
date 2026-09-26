@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mit Patel</h1>
 <h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.</h3>
 
-- 🔭 I’m currently working on **Holiday Booking**
+- 🔭 I’m currently working on **Kasate**
 
 - 🌱 I’m currently learning **React Netive**
 
